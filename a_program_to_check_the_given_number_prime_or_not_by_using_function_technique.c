@@ -8,6 +8,7 @@ int prime(int n)
         {
             printf("given no is not prime");
             flag=1;
+            break;
         }
     }
 return(flag);
